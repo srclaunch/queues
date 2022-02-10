@@ -1,0 +1,9 @@
+{
+  "extends": "@srclaunch/dx/tsconfig.json",
+  "compilerOptions": {
+    "declarationDir": "lib",
+    "emitDeclarationOnly": true,
+    "rootDir": "src"
+  },
+  "include": ["src"]
+}
